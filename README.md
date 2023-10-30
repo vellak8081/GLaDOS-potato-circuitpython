@@ -1,7 +1,7 @@
 # GLaDOS Potato
 A Gif playing Glados Potato firmware written in CircuitPython
 
-https://i.imgur.com/krgbifH.mp4
+https://github.com/vellak8081/GLaDOS-potato-circuitpython/assets/46793137/486d2929-0474-4d25-ac72-7bbf78b0507f
 
 This is intended to run on an RP2040 microcontroller, specifically I used the Waveshare RP2040-Zero.
 
