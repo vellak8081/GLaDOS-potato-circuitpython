@@ -1,6 +1,8 @@
 # GLaDOS Potato
 A Gif playing Glados Potato firmware written in CircuitPython
 
+https://i.imgur.com/krgbifH.mp4
+
 This is intended to run on an RP2040 microcontroller, specifically I used the Waveshare RP2040-Zero.
 
 The files you will need are all inside the 'firmware' directory, except for the library files which you should get from Adafruit.
